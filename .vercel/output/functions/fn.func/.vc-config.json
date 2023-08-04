@@ -1,0 +1,6 @@
+{
+	"runtime": "nodejs18.x",
+	"handler": "..\\..\\..\\calculator\\my-calculators\\.svelte-kit\\vercel-tmp\\index.js",
+	"launcherType": "Nodejs",
+	"experimentalResponseStreaming": true
+}
